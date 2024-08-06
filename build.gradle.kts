@@ -20,9 +20,9 @@ allprojects {
 
 
     repositories {
-        mavenLocal()
+        // mavenLocal()
         mavenCentral()
-        maven(url = "https://maven.lavalink.dev/releases")
+        // maven(url = "https://maven.lavalink.dev/releases")
         maven(url = "https://jitpack.io")
     }
 }
